@@ -1,2 +1,2 @@
 # .vimrc
-D' best .vimrc configuration in existence.
+D' best Vim configuration in existence.
