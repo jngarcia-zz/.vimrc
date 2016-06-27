@@ -66,4 +66,4 @@ nnoremap { <C-w><lt>
 " Airline
 set laststatus=2
 
-colorscheme molokai
+colorscheme koehler
