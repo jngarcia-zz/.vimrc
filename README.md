@@ -1,2 +1,2 @@
 # .vimrc
-An infant vim configuration
+An infant vim configuration :baby:
