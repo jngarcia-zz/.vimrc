@@ -68,6 +68,9 @@ noremap <C-h>  <C-w>h
 noremap <C-j>  <C-w>j
 noremap <C-k>  <C-w>k
 noremap <C-l>  <C-w>l
+" Moving split division
+nnoremap } <C-w>>
+nnoremap { <C-w><lt>
 " Tabbing multiple lines
 vnoremap < <gv
 vnoremap > >gv
@@ -75,8 +78,7 @@ vnoremap > >gv
 nmap <tab> :NERDTreeToggle<cr>
 " Clipboard
 vmap <C-c> y:call system("pbcopy", getreg("\""))<CR>
-nnoremap } <C-w>>
-nnoremap { <C-w><lt>
+"EasyAlign
 xmap ga <Plug>(EasyAlign)
 nmap ga <Plug>(EasyAlign)
 " CTRLP
