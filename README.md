@@ -1,6 +1,6 @@
 # .vimrc
 An infant vim configuration :baby:
-- A good way to start your own .vimrc configuration
+A good way to start your own .vimrc configuration
 
 #Installation
 
